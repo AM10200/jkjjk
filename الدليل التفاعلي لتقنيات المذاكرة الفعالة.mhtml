@@ -1,0 +1,1289 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Asus/Downloads/How%20to%20study.html
+Subject: =?utf-8?Q?=D8=A7=D9=84=D8=AF=D9=84=D9=8A=D9=84=20=D8=A7=D9=84=D8=AA=D9=81?=
+ =?utf-8?Q?=D8=A7=D8=B9=D9=84=D9=8A=20=D9=84=D8=AA=D9=82=D9=86=D9=8A=D8=A7?=
+ =?utf-8?Q?=D8=AA=20=D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9=20=D8?=
+ =?utf-8?Q?=A7=D9=84=D9=81=D8=B9=D8=A7=D9=84=D8=A9?=
+Date: Mon, 11 Aug 2025 07:27:35 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--M831JAbSmuCVyXFa2RywDJKPritiimbQcP9YqqFKXM----"
+
+
+------MultipartBoundary--M831JAbSmuCVyXFa2RywDJKPritiimbQcP9YqqFKXM----
+Content-Type: text/html
+Content-ID: <frame-4283EC8C960C37997823BB5EAE67A0EA@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Asus/Downloads/How%20to%20study.html
+
+<!DOCTYPE html><html lang=3D"ar" dir=3D"rtl"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" t=
+ype=3D"text/css" href=3D"cid:css-1f8c0158-0378-4aed-acf7-87931f473a28@mhtml=
+.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-ada1c4=
+01-0fe5-45ff-b6a9-be0e9d14e3e6@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title style=3D"direction: rtl; text-align: start;">=D8=A7=D9=84=D8=AF=
+=D9=84=D9=8A=D9=84 =D8=A7=D9=84=D8=AA=D9=81=D8=A7=D8=B9=D9=84=D9=8A =D9=84=
+=D8=AA=D9=82=D9=86=D9=8A=D8=A7=D8=AA =D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=
+=D8=B1=D8=A9 =D8=A7=D9=84=D9=81=D8=B9=D8=A7=D9=84=D8=A9</title>
+   =20
+   =20
+    <link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+    <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigi=
+n=3D"">
+    <link href=3D"https://fonts.googleapis.com/css2?family=3DCairo:wght@400=
+;600;700&amp;display=3Dswap" rel=3D"stylesheet">
+    <!-- Chosen Palette: Calm Harmony -->
+    <!-- Application Structure Plan: A task-oriented, tab-based single-page=
+ application. The structure is designed to allow users to explore content b=
+ased on their immediate needs (e.g., "How do I prepare for an exam?") rathe=
+r than following the linear structure of the source report. The main sectio=
+ns are: The Foundation, Active Techniques, Information Organizers, Exam Mas=
+tery, and Digital Toolkit. This non-linear, interactive approach reduces co=
+gnitive load and increases user engagement by grouping related strategies a=
+nd tools into logical, explorable modules. -->
+    <!-- Visualization & Content Choices: Forgetting Curve -> Interactive L=
+ine Chart (Chart.js) with toggles to show the impact of spaced repetition. =
+Pomodoro Technique -> Functional Timer (Vanilla JS) for immediate applicati=
+on. Core Techniques (Feynman, Cornell, etc.) -> Interactive Card Grid with =
+click-to-reveal details to prevent information overload. Digital Tools -> V=
+isual card grid with links. This selection prioritizes interaction and clar=
+ity, transforming static text into engaging, usable components. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+   =20
+</head>
+<body class=3D"text-stone-800">
+
+    <div class=3D"container mx-auto p-4 sm:p-6 lg:p-8">
+        <header class=3D"text-center mb-8">
+            <h1 class=3D"text-4xl md:text-5xl font-bold text-stone-700 mb-2=
+" style=3D"direction: rtl;">=D8=A5=D8=AA=D9=82=D8=A7=D9=86 =D8=B1=D8=AD=D9=
+=84=D8=AA=D9=83 =D8=A7=D9=84=D8=AA=D8=B9=D9=84=D9=8A=D9=85=D9=8A=D8=A9</h1>
+            <p class=3D"text-lg text-stone-600" style=3D"direction: rtl;">=
+=D8=AF=D9=84=D9=8A=D9=84=D9=83 =D8=A7=D9=84=D8=AA=D9=81=D8=A7=D8=B9=D9=84=
+=D9=8A =D9=84=D8=A7=D8=B3=D8=AA=D8=B1=D8=A7=D8=AA=D9=8A=D8=AC=D9=8A=D8=A7=
+=D8=AA =D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=A7=D9=84=D9=81=
+=D8=B9=D8=A7=D9=84=D8=A9 =D9=88=D8=A7=D9=84=D8=A3=D8=AF=D9=88=D8=A7=D8=AA =
+=D8=A7=D9=84=D8=B1=D9=82=D9=85=D9=8A=D8=A9 =D9=84=D8=AA=D8=B9=D8=B2=D9=8A=
+=D8=B2 =D9=86=D8=AC=D8=A7=D8=AD=D9=83 =D8=A7=D9=84=D8=A3=D9=83=D8=A7=D8=AF=
+=D9=8A=D9=85=D9=8A.</p>
+        </header>
+
+        <nav id=3D"tabs" class=3D"flex flex-wrap justify-center gap-2 mb-8"=
+>
+                    <button data-tab-id=3D"foundation" class=3D"tab-button =
+text-sm sm:text-base font-semibold py-2 px-4 rounded-t-lg transition-colors=
+ duration-300 tab-inactive">
+                        =D8=A3=D8=B3=D8=A7=D8=B3=D9=8A=D8=A7=D8=AA =D8=A7=
+=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9
+                    </button>
+               =20
+                    <button data-tab-id=3D"active-techniques" class=3D"tab-=
+button text-sm sm:text-base font-semibold py-2 px-4 rounded-t-lg transition=
+-colors duration-300 tab-inactive">
+                        =D8=A7=D9=84=D8=AA=D9=82=D9=86=D9=8A=D8=A7=D8=AA =
+=D8=A7=D9=84=D9=86=D8=B4=D8=B7=D8=A9
+                    </button>
+               =20
+                    <button data-tab-id=3D"organization" class=3D"tab-butto=
+n text-sm sm:text-base font-semibold py-2 px-4 rounded-t-lg transition-colo=
+rs duration-300 tab-inactive">
+                        =D8=AA=D9=86=D8=B8=D9=8A=D9=85 =D8=A7=D9=84=D9=85=
+=D8=B9=D9=84=D9=88=D9=85=D8=A7=D8=AA
+                    </button>
+               =20
+                    <button data-tab-id=3D"exam-mastery" class=3D"tab-butto=
+n text-sm sm:text-base font-semibold py-2 px-4 rounded-t-lg transition-colo=
+rs duration-300 tab-inactive">
+                        =D8=A5=D8=AA=D9=82=D8=A7=D9=86 =D8=A7=D9=84=D8=A7=
+=D9=85=D8=AA=D8=AD=D8=A7=D9=86=D8=A7=D8=AA
+                    </button>
+               =20
+                    <button data-tab-id=3D"toolkit" class=3D"tab-button tex=
+t-sm sm:text-base font-semibold py-2 px-4 rounded-t-lg transition-colors du=
+ration-300 tab-active">
+                        =D8=A7=D9=84=D8=A3=D8=AF=D9=88=D8=A7=D8=AA =D8=A7=
+=D9=84=D8=B1=D9=82=D9=85=D9=8A=D8=A9
+                    </button>
+                </nav>
+
+        <main id=3D"tab-content">
+                        <div id=3D"foundation" class=3D"tab-pane hidden">
+                            <div class=3D"content-card p-6 md:p-8">
+                                <h2 class=3D"text-2xl md:text-3xl font-bold=
+ mb-4 text-stone-700">=D8=A8=D9=86=D8=A7=D8=A1 =D8=A3=D8=B3=D8=A7=D8=B3 =D9=
+=82=D9=88=D9=8A: =D8=A7=D9=84=D8=A8=D9=8A=D8=A6=D8=A9=D8=8C =D8=A7=D9=84=D8=
+=B9=D9=82=D9=84=D9=8A=D8=A9=D8=8C =D9=88=D8=A7=D9=84=D8=AA=D8=AE=D8=B7=D9=
+=8A=D8=B7</h2>
+                                <p class=3D"text-stone-600 mb-8">=D8=A7=D9=
+=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=A7=D9=84=D9=81=D8=B9=D8=A7=D9=
+=84=D8=A9 =D9=84=D8=A7 =D8=AA=D9=82=D8=AA=D8=B5=D8=B1 =D9=81=D9=82=D8=B7 =
+=D8=B9=D9=84=D9=89 =D8=A7=D9=84=D8=AA=D9=82=D9=86=D9=8A=D8=A7=D8=AA =D8=A7=
+=D9=84=D9=85=D8=B7=D8=A8=D9=82=D8=A9 =D8=A3=D8=AB=D9=86=D8=A7=D8=A1 =D8=AC=
+=D9=84=D8=B3=D8=A9 =D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9=D8=9B =
+=D8=A8=D9=84 =D8=AA=D8=AA=D8=A3=D8=AB=D8=B1 =D8=A8=D8=B4=D8=AF=D8=A9 =D8=A8=
+=D8=A7=D9=84=D8=B8=D8=B1=D9=88=D9=81 =D8=A7=D9=84=D8=AA=D9=8A =D8=AA=D8=B3=
+=D8=A8=D9=82=D9=87=D8=A7 =D9=88=D8=AA=D8=AD=D9=8A=D8=B7 =D8=A8=D9=87=D8=A7.=
+ =D9=87=D8=B0=D8=A7 =D8=A7=D9=84=D9=82=D8=B3=D9=85 =D9=8A=D8=B1=D9=83=D8=B2=
+ =D8=B9=D9=84=D9=89 =D9=83=D9=8A=D9=81=D9=8A=D8=A9 =D8=AA=D9=87=D9=8A=D8=A6=
+=D8=A9 =D8=A8=D9=8A=D8=A6=D8=A9 =D9=85=D8=AB=D8=A7=D9=84=D9=8A=D8=A9=D8=8C =
+=D9=88=D8=A5=D8=AF=D8=A7=D8=B1=D8=A9 =D9=88=D9=82=D8=AA=D9=83 =D8=A8=D8=B0=
+=D9=83=D8=A7=D8=A1=D8=8C =D9=88=D8=A7=D9=84=D8=AD=D9=81=D8=A7=D8=B8 =D8=B9=
+=D9=84=D9=89 =D8=AA=D8=B1=D9=83=D9=8A=D8=B2=D9=83 =D9=84=D8=AA=D9=85=D9=87=
+=D9=8A=D8=AF =D8=A7=D9=84=D8=B7=D8=B1=D9=8A=D9=82 =D9=84=D8=A3=D8=AF=D8=A7=
+=D8=A1 =D9=85=D8=B9=D8=B1=D9=81=D9=8A =D9=85=D8=AB=D8=A7=D9=84=D9=8A.</p>
+                                <div class=3D"space-y-8">
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"foundation-0">
+                                                =F0=9F=93=89 =D9=85=D9=86=
+=D8=AD=D9=86=D9=89 =D8=A7=D9=84=D9=86=D8=B3=D9=8A=D8=A7=D9=86: =D9=84=D9=85=
+=D8=A7=D8=B0=D8=A7 =D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=A7=
+=D9=84=D8=A7=D8=B3=D8=AA=D8=B1=D8=A7=D8=AA=D9=8A=D8=AC=D9=8A=D8=A9 =D9=85=
+=D9=87=D9=85=D8=A9
+                                            </h3>
+                                            <div id=3D"foundation-0" class=
+=3D"details-pane px-4 text-stone-600">
+                                               =20
+                                <p class=3D"mb-4">=D9=8A=D9=88=D8=B6=D8=AD =
+"=D9=85=D9=86=D8=AD=D9=86=D9=89 =D8=A7=D9=84=D9=86=D8=B3=D9=8A=D8=A7=D9=86"=
+ =D9=84=D9=84=D8=B9=D8=A7=D9=84=D9=85 =D9=87=D9=8A=D8=B1=D9=85=D8=A7=D9=86 =
+=D8=A5=D8=A8=D9=86=D8=AC=D9=87=D8=A7=D9=88=D8=B3 =D9=83=D9=8A=D9=81 =D8=AA=
+=D9=86=D8=AE=D9=81=D8=B6 =D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=A7=
+=D8=AA =D8=A7=D9=84=D8=AA=D9=8A =D9=86=D8=AD=D8=AA=D9=81=D8=B8 =D8=A8=D9=87=
+=D8=A7 =D8=A8=D8=B4=D9=83=D9=84 =D8=AD=D8=A7=D8=AF =D8=A8=D8=B9=D8=AF =D8=
+=A7=D9=84=D8=AA=D8=B9=D9=84=D9=85 =D8=A7=D9=84=D8=A3=D9=88=D9=84=D9=8A. =D9=
+=88=D9=85=D8=B9 =D8=B0=D9=84=D9=83=D8=8C =D9=8A=D9=85=D9=83=D9=86=D9=86=D8=
+=A7 =D9=85=D9=83=D8=A7=D9=81=D8=AD=D8=A9 =D9=87=D8=B0=D8=A7 =D8=A7=D9=84=D9=
+=86=D8=B3=D9=8A=D8=A7=D9=86 =D9=85=D9=86 =D8=AE=D9=84=D8=A7=D9=84 =D9=85=D8=
+=B1=D8=A7=D8=AC=D8=B9=D8=A9 =D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=
+=A7=D8=AA =D8=B9=D9=84=D9=89 =D9=81=D8=AA=D8=B1=D8=A7=D8=AA =D9=85=D8=AA=D8=
+=A8=D8=A7=D8=B9=D8=AF=D8=A9 =D8=A7=D8=B3=D8=AA=D8=B1=D8=A7=D8=AA=D9=8A=D8=
+=AC=D9=8A=D9=8B=D8=A7=D8=8C =D9=88=D9=87=D9=8A =D8=AA=D9=82=D9=86=D9=8A=D8=
+=A9 =D8=AA=D9=8F=D8=B9=D8=B1=D9=81 =D8=A8=D8=A7=D8=B3=D9=85 "=D8=A7=D9=84=
+=D8=AA=D9=83=D8=B1=D8=A7=D8=B1 =D8=A7=D9=84=D9=85=D8=AA=D8=A8=D8=A7=D8=B9=
+=D8=AF".</p>
+                                <div class=3D"chart-container mb-4">
+                                    <canvas id=3D"forgettingCurveChart"></c=
+anvas>
+                                </div>
+                                <div class=3D"flex justify-center gap-4">
+                                    <button id=3D"toggleRepetition" class=
+=3D"px-4 py-2 bg-stone-500 text-white rounded-lg hover:bg-stone-600 transit=
+ion">=D8=A5=D8=B8=D9=87=D8=A7=D8=B1/=D8=A5=D8=AE=D9=81=D8=A7=D8=A1 =D8=AA=
+=D8=A3=D8=AB=D9=8A=D8=B1 =D8=A7=D9=84=D8=AA=D9=83=D8=B1=D8=A7=D8=B1</button=
+>
+                                </div>
+                           =20
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"foundation-1">
+                                                =F0=9F=8D=85 =D8=AA=D9=82=
+=D9=86=D9=8A=D8=A9 =D8=A8=D9=88=D9=85=D9=88=D8=AF=D9=88=D8=B1=D9=88: =D8=A3=
+=D8=AF=D8=A7=D8=A9 =D9=84=D8=A5=D8=AF=D8=A7=D8=B1=D8=A9 =D8=A7=D9=84=D9=88=
+=D9=82=D8=AA
+                                            </h3>
+                                            <div id=3D"foundation-1" class=
+=3D"details-pane px-4 text-stone-600">
+                                               =20
+                                <p class=3D"mb-4">=D8=AA=D9=82=D9=86=D9=8A=
+=D8=A9 =D8=A8=D9=88=D9=85=D9=88=D8=AF=D9=88=D8=B1=D9=88 =D9=87=D9=8A =D8=B7=
+=D8=B1=D9=8A=D9=82=D8=A9 =D9=84=D8=A5=D8=AF=D8=A7=D8=B1=D8=A9 =D8=A7=D9=84=
+=D9=88=D9=82=D8=AA =D8=AA=D9=82=D8=B3=D9=85 =D8=AC=D9=84=D8=B3=D8=A7=D8=AA =
+=D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=A5=D9=84=D9=89 =D9=81=
+=D8=AA=D8=B1=D8=A7=D8=AA =D9=85=D8=AF=D8=AA=D9=87=D8=A7 25 =D8=AF=D9=82=D9=
+=8A=D9=82=D8=A9 (=D8=AA=D8=B3=D9=85=D9=89 "=D8=A8=D9=88=D9=85=D9=88=D8=AF=
+=D9=88=D8=B1=D9=88")=D8=8C =D8=AA=D9=84=D9=8A=D9=87=D8=A7 =D8=A7=D8=B3=D8=
+=AA=D8=B1=D8=A7=D8=AD=D8=A9 =D9=82=D8=B5=D9=8A=D8=B1=D8=A9. =D9=8A=D8=B3=D8=
+=A7=D8=B9=D8=AF =D9=87=D8=B0=D8=A7 =D8=A7=D9=84=D9=86=D9=87=D8=AC =D8=A7=D9=
+=84=D9=85=D9=86=D8=B8=D9=85 =D9=81=D9=8A =D8=A7=D9=84=D8=AD=D9=81=D8=A7=D8=
+=B8 =D8=B9=D9=84=D9=89 =D8=A7=D9=84=D8=AA=D8=B1=D9=83=D9=8A=D8=B2 =D9=88=D8=
+=AA=D9=82=D9=84=D9=8A=D9=84 =D8=A7=D9=84=D8=A5=D8=B1=D9=87=D8=A7=D9=82.</p>
+                                <div class=3D"content-card p-6 text-center =
+bg-stone-50">
+                                    <div id=3D"pomodoro-timer" class=3D"tex=
+t-6xl font-bold text-stone-700 mb-4">25:00</div>
+                                    <div class=3D"flex justify-center gap-4=
+">
+                                        <button id=3D"pomodoro-start" class=
+=3D"px-6 py-2 bg-green-500 text-white rounded-lg hover:bg-green-600 transit=
+ion">=D8=A7=D8=A8=D8=AF=D8=A3</button>
+                                        <button id=3D"pomodoro-pause" class=
+=3D"px-6 py-2 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 trans=
+ition">=D8=A5=D9=8A=D9=82=D8=A7=D9=81 =D9=85=D8=A4=D9=82=D8=AA</button>
+                                        <button id=3D"pomodoro-reset" class=
+=3D"px-6 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition"=
+>=D8=A5=D8=B9=D8=A7=D8=AF=D8=A9 =D8=B6=D8=A8=D8=B7</button>
+                                    </div>
+                                </div>
+                           =20
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"foundation-2">
+                                                =F0=9F=8E=AF =D8=AA=D8=AD=
+=D8=AF=D9=8A=D8=AF =D8=A3=D9=87=D8=AF=D8=A7=D9=81 SMART
+                                            </h3>
+                                            <div id=3D"foundation-2" class=
+=3D"details-pane px-4 text-stone-600">
+                                                <p>=D8=AA=D9=88=D9=81=D8=B1=
+ =D8=A3=D9=87=D8=AF=D8=A7=D9=81 SMART (=D9=85=D8=AD=D8=AF=D8=AF=D8=A9=D8=8C=
+ =D9=82=D8=A7=D8=A8=D9=84=D8=A9 =D9=84=D9=84=D9=82=D9=8A=D8=A7=D8=B3=D8=8C =
+=D9=82=D8=A7=D8=A8=D9=84=D8=A9 =D9=84=D9=84=D8=AA=D8=AD=D9=82=D9=8A=D9=82=
+=D8=8C =D8=B0=D8=A7=D8=AA =D8=B5=D9=84=D8=A9=D8=8C =D9=85=D8=AD=D8=AF=D8=AF=
+=D8=A9 =D8=A8=D9=88=D9=82=D8=AA) =D8=A7=D9=84=D9=88=D8=B6=D9=88=D8=AD =D9=
+=88=D8=A7=D9=84=D8=AA=D8=AD=D9=81=D9=8A=D8=B2 =D9=88=D8=A7=D9=84=D9=85=D8=
+=B3=D8=A7=D8=A1=D9=84=D8=A9. =D8=A8=D8=AF=D9=84=D8=A7=D9=8B =D9=85=D9=86 =
+=D9=87=D8=AF=D9=81 =D8=BA=D8=A7=D9=85=D8=B6 =D9=85=D8=AB=D9=84 "=D8=AA=D8=
+=AD=D8=B3=D9=8A=D9=86 =D8=AF=D8=B1=D8=AC=D8=A7=D8=AA=D9=8A"=D8=8C =D8=B3=D9=
+=8A=D9=83=D9=88=D9=86 =D9=87=D8=AF=D9=81 SMART =D9=87=D9=88 "=D8=A7=D9=84=
+=D8=AD=D8=B5=D9=88=D9=84 =D8=B9=D9=84=D9=89 =D9=85=D8=B9=D8=AF=D9=84 =D8=AA=
+=D8=B1=D8=A7=D9=83=D9=85=D9=8A 3.5 =D8=A3=D9=88 =D8=A3=D8=B9=D9=84=D9=89 =
+=D9=87=D8=B0=D8=A7 =D8=A7=D9=84=D9=81=D8=B5=D9=84 =D8=A7=D9=84=D8=AF=D8=B1=
+=D8=A7=D8=B3=D9=8A".</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"foundation-3">
+                                                =F0=9F=8C=BF =D8=AA=D9=87=
+=D9=8A=D8=A6=D8=A9 =D8=A8=D9=8A=D8=A6=D8=A9 =D9=85=D8=B0=D8=A7=D9=83=D8=B1=
+=D8=A9 =D9=85=D8=AB=D8=A7=D9=84=D9=8A=D8=A9
+                                            </h3>
+                                            <div id=3D"foundation-3" class=
+=3D"details-pane px-4 text-stone-600">
+                                                <ul class=3D"list-disc list=
+-inside space-y-2"><li>=D8=A7=D8=A8=D8=AD=D8=AB =D8=B9=D9=86 =D9=85=D9=86=
+=D8=B7=D9=82=D8=A9 =D9=87=D8=A7=D8=AF=D8=A6=D8=A9 =D9=88=D8=AE=D8=A7=D9=84=
+=D9=8A=D8=A9 =D9=85=D9=86 =D8=A7=D9=84=D9=85=D8=B4=D8=AA=D8=AA=D8=A7=D8=AA.=
+</li><li>=D8=AA=D8=A3=D9=83=D8=AF =D9=85=D9=86 =D9=88=D8=AC=D9=88=D8=AF =D8=
+=A5=D8=B6=D8=A7=D8=A1=D8=A9 =D8=AC=D9=8A=D8=AF=D8=A9=D8=8C =D9=88=D9=8A=D9=
+=81=D8=B6=D9=84 =D8=A3=D9=86 =D8=AA=D9=83=D9=88=D9=86 =D8=B7=D8=A8=D9=8A=D8=
+=B9=D9=8A=D8=A9.</li><li>=D8=A7=D8=B3=D8=AA=D8=AE=D8=AF=D9=85 =D9=83=D8=B1=
+=D8=B3=D9=8A=D9=8B=D8=A7 =D9=85=D8=B1=D9=8A=D8=AD=D9=8B=D8=A7 =D9=84=D9=84=
+=D8=AD=D9=81=D8=A7=D8=B8 =D8=B9=D9=84=D9=89 =D9=88=D8=B6=D8=B9=D9=8A=D8=A9 =
+=D8=AC=D9=84=D9=88=D8=B3 =D8=AC=D9=8A=D8=AF=D8=A9.</li><li>=D8=AA=D8=AD=D9=
+=83=D9=85 =D9=81=D9=8A =D8=A7=D9=84=D8=B6=D9=88=D8=B6=D8=A7=D8=A1 =D8=A8=D8=
+=A7=D8=B3=D8=AA=D8=AE=D8=AF=D8=A7=D9=85 =D8=B3=D9=85=D8=A7=D8=B9=D8=A7=D8=
+=AA =D8=B9=D8=A7=D8=B2=D9=84=D8=A9 =D9=84=D9=84=D8=B6=D9=88=D8=B6=D8=A7=D8=
+=A1.</li><li>=D8=AD=D8=A7=D9=81=D8=B8 =D8=B9=D9=84=D9=89 =D9=85=D9=83=D8=AA=
+=D8=A8=D9=83 =D9=85=D9=86=D8=B8=D9=85=D9=8B=D8=A7 =D9=88=D8=AE=D8=A7=D9=84=
+=D9=8A=D9=8B=D8=A7 =D9=85=D9=86 =D8=A7=D9=84=D9=81=D9=88=D8=B6=D9=89 =D9=84=
+=D8=AA=D9=82=D9=84=D9=8A=D9=84 =D8=A7=D9=84=D9=85=D8=B4=D8=AA=D8=AA=D8=A7=
+=D8=AA =D8=A7=D9=84=D8=A8=D8=B5=D8=B1=D9=8A=D8=A9.</li></ul>
+                                            </div>
+                                        </article>
+                                   =20
+                                </div>
+                            </div>
+                        </div>
+                   =20
+                        <div id=3D"active-techniques" class=3D"tab-pane hid=
+den">
+                            <div class=3D"content-card p-6 md:p-8">
+                                <h2 class=3D"text-2xl md:text-3xl font-bold=
+ mb-4 text-stone-700">=D8=A7=D8=B3=D8=AA=D8=B1=D8=A7=D8=AA=D9=8A=D8=AC=D9=
+=8A=D8=A7=D8=AA =D8=A7=D9=84=D8=AA=D8=B9=D9=84=D9=85 =D8=A7=D9=84=D9=86=D8=
+=B4=D8=B7 =D8=A7=D9=84=D8=A3=D8=B3=D8=A7=D8=B3=D9=8A=D8=A9 =D9=84=D9=81=D9=
+=87=D9=85 =D8=A3=D8=B9=D9=85=D9=82</h2>
+                                <p class=3D"text-stone-600 mb-8">=D8=A7=D8=
+=B3=D8=AA=D8=B1=D8=A7=D8=AA=D9=8A=D8=AC=D9=8A=D8=A7=D8=AA =D8=A7=D9=84=D8=
+=AA=D8=B9=D9=84=D9=85 =D8=A7=D9=84=D9=86=D8=B4=D8=B7 =D9=87=D9=8A =D8=AC=D9=
+=88=D9=87=D8=B1 =D8=A7=D9=84=D9=81=D9=87=D9=85 =D8=A7=D9=84=D8=B9=D9=85=D9=
+=8A=D9=82 =D9=88=D8=A7=D9=84=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=A7=D9=84=D9=
+=82=D9=88=D9=8A=D8=A9. =D8=AA=D8=AA=D8=B7=D9=84=D8=A8 =D9=87=D8=B0=D9=87 =
+=D8=A7=D9=84=D8=A3=D8=B3=D8=A7=D9=84=D9=8A=D8=A8 =D9=85=D9=86=D9=83 =D8=A7=
+=D9=84=D8=AA=D9=81=D8=A7=D8=B9=D9=84 =D8=A8=D9=81=D8=A7=D8=B9=D9=84=D9=8A=
+=D8=A9 =D9=85=D8=B9 =D8=A7=D9=84=D9=85=D8=A7=D8=AF=D8=A9=D8=8C =D9=85=D9=85=
+=D8=A7 =D9=8A=D8=AD=D9=81=D8=B2 =D8=B9=D9=85=D9=84=D9=8A=D8=A7=D8=AA =D9=85=
+=D8=B9=D8=B1=D9=81=D9=8A=D8=A9 =D8=AA=D8=AA=D8=AC=D8=A7=D9=88=D8=B2 =D8=A7=
+=D9=84=D8=A7=D8=B3=D8=AA=D9=8A=D8=B9=D8=A7=D8=A8 =D8=A7=D9=84=D8=B3=D9=84=
+=D8=A8=D9=8A. =D8=A7=D8=B3=D8=AA=D9=83=D8=B4=D9=81 =D9=87=D8=B0=D9=87 =D8=
+=A7=D9=84=D8=AA=D9=82=D9=86=D9=8A=D8=A7=D8=AA =D8=A7=D9=84=D9=82=D9=88=D9=
+=8A=D8=A9 =D9=84=D8=AA=D8=BA=D9=8A=D9=8A=D8=B1 =D8=B7=D8=B1=D9=8A=D9=82=D8=
+=A9 =D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=AA=D9=83.</p>
+                                <div class=3D"space-y-8">
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"active-techniques-0">
+                                                =F0=9F=A7=A0 =D8=A7=D9=84=
+=D8=A7=D8=B3=D8=AA=D8=AF=D8=B9=D8=A7=D8=A1 =D8=A7=D9=84=D9=86=D8=B4=D8=B7: =
+=D8=AA=D9=82=D9=88=D9=8A=D8=A9 =D8=B9=D8=B6=D9=84=D8=A7=D8=AA =D8=A7=D9=84=
+=D8=B0=D8=A7=D9=83=D8=B1=D8=A9
+                                            </h3>
+                                            <div id=3D"active-techniques-0"=
+ class=3D"details-pane px-4 text-stone-600">
+                                                <p>=D8=A7=D9=84=D8=A7=D8=B3=
+=D8=AA=D8=AF=D8=B9=D8=A7=D8=A1 =D8=A7=D9=84=D9=86=D8=B4=D8=B7 =D9=87=D9=88 =
+=D8=A3=D8=B3=D9=84=D9=88=D8=A8 =D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D9=82=
+=D9=88=D9=8A =D9=8A=D8=AA=D8=B6=D9=85=D9=86 =D8=A7=D8=B3=D8=AA=D8=B1=D8=AC=
+=D8=A7=D8=B9 =D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=A7=D8=AA =D8=A8=
+=D9=81=D8=A7=D8=B9=D9=84=D9=8A=D8=A9 =D9=85=D9=86 =D8=A7=D9=84=D8=B0=D8=A7=
+=D9=83=D8=B1=D8=A9 =D8=AF=D9=88=D9=86 =D9=85=D8=B3=D8=A7=D8=B9=D8=AF=D8=A9 =
+=D8=AE=D8=A7=D8=B1=D8=AC=D9=8A=D8=A9. =D8=A8=D8=AF=D9=84=D8=A7=D9=8B =D9=85=
+=D9=86 =D8=A5=D8=B9=D8=A7=D8=AF=D8=A9 =D9=82=D8=B1=D8=A7=D8=A1=D8=A9 =D8=A7=
+=D9=84=D9=85=D9=84=D8=A7=D8=AD=D8=B8=D8=A7=D8=AA =D8=A8=D8=B4=D9=83=D9=84 =
+=D8=B3=D9=84=D8=A8=D9=8A=D8=8C =D9=8A=D8=AA=D8=AD=D8=AF=D9=89 =D9=87=D8=B0=
+=D8=A7 =D8=A7=D9=84=D8=A3=D8=B3=D9=84=D9=88=D8=A8 =D8=A7=D9=84=D8=AF=D9=85=
+=D8=A7=D8=BA =D9=84=D9=84=D8=AA=D8=B0=D9=83=D8=B1=D8=8C =D9=85=D9=85=D8=A7 =
+=D9=8A=D9=82=D9=88=D9=8A =D8=A7=D9=84=D8=B1=D9=88=D8=A7=D8=A8=D8=B7 =D8=A7=
+=D9=84=D8=B9=D8=B5=D8=A8=D9=8A=D8=A9 =D9=88=D9=8A=D8=AC=D8=B9=D9=84 =D8=A7=
+=D8=B3=D8=AA=D8=B1=D8=AC=D8=A7=D8=B9 =D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=
+=D9=85=D8=A7=D8=AA =D8=A3=D8=B3=D9=87=D9=84 =D9=84=D8=A7=D8=AD=D9=82=D9=8B=
+=D8=A7.</p><p class=3D"mt-2"><strong>=D8=B7=D8=B1=D9=82 =D8=A7=D9=84=D8=AA=
+=D9=86=D9=81=D9=8A=D8=B0:</strong> =D8=A8=D8=B7=D8=A7=D9=82=D8=A7=D8=AA =D8=
+=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 (Flashcards)=D8=8C =D8=A7=D9=
+=84=D8=A7=D8=AE=D8=AA=D8=A8=D8=A7=D8=B1=D8=A7=D8=AA =D8=A7=D9=84=D8=B0=D8=
+=A7=D8=AA=D9=8A=D8=A9=D8=8C =D8=B4=D8=B1=D8=AD =D8=A7=D9=84=D9=85=D8=A7=D8=
+=AF=D8=A9 =D9=84=D9=84=D8=A2=D8=AE=D8=B1=D9=8A=D9=86=D8=8C =D9=88=D8=A5=D9=
+=86=D8=B4=D8=A7=D8=A1 =D8=A3=D8=B3=D8=A6=D9=84=D8=A9 =D8=AA=D8=AF=D8=B1=D9=
+=8A=D8=A8=D9=8A=D8=A9 =D8=AE=D8=A7=D8=B5=D8=A9 =D8=A8=D9=83.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"active-techniques-1">
+                                                =F0=9F=97=93=EF=B8=8F =D8=
+=A7=D9=84=D8=AA=D9=83=D8=B1=D8=A7=D8=B1 =D8=A7=D9=84=D9=85=D8=AA=D8=A8=D8=
+=A7=D8=B9=D8=AF: =D8=A7=D9=84=D8=AA=D8=BA=D9=84=D8=A8 =D8=B9=D9=84=D9=89 =
+=D9=85=D9=86=D8=AD=D9=86=D9=89 =D8=A7=D9=84=D9=86=D8=B3=D9=8A=D8=A7=D9=86
+                                            </h3>
+                                            <div id=3D"active-techniques-1"=
+ class=3D"details-pane px-4 text-stone-600">
+                                                <p>=D9=8A=D9=82=D9=88=D9=85=
+ =D8=A7=D9=84=D8=AA=D9=83=D8=B1=D8=A7=D8=B1 =D8=A7=D9=84=D9=85=D8=AA=D8=A8=
+=D8=A7=D8=B9=D8=AF =D8=A8=D8=AC=D8=AF=D9=88=D9=84=D8=A9 =D8=A7=D9=84=D9=85=
+=D8=B1=D8=A7=D8=AC=D8=B9=D8=A7=D8=AA =D8=A8=D8=B4=D9=83=D9=84 =D8=A7=D8=B3=
+=D8=AA=D8=B1=D8=A7=D8=AA=D9=8A=D8=AC=D9=8A =D8=B9=D9=84=D9=89 =D9=81=D8=AA=
+=D8=B1=D8=A7=D8=AA =D9=85=D8=AA=D8=B2=D8=A7=D9=8A=D8=AF=D8=A9=D8=8C =D9=85=
+=D9=85=D8=A7 =D9=8A=D8=AD=D8=B3=D9=86 =D8=A7=D9=84=D8=A7=D8=AD=D8=AA=D9=81=
+=D8=A7=D8=B8 =D8=A8=D8=A7=D9=84=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=B9=D9=84=
+=D9=89 =D8=A7=D9=84=D9=85=D8=AF=D9=89 =D8=A7=D9=84=D8=B7=D9=88=D9=8A=D9=84.=
+ =D8=A7=D9=84=D9=81=D9=83=D8=B1=D8=A9 =D8=A7=D9=84=D8=A3=D8=B3=D8=A7=D8=B3=
+=D9=8A=D8=A9 =D9=87=D9=8A =D9=85=D8=B1=D8=A7=D8=AC=D8=B9=D8=A9 =D8=A7=D9=84=
+=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=A7=D8=AA =D8=A7=D9=84=D8=AA=D9=8A =D8=AA=
+=D9=85=D8=AA =D8=AF=D8=B1=D8=A7=D8=B3=D8=AA=D9=87=D8=A7 =D8=B9=D9=84=D9=89 =
+=D9=81=D8=AA=D8=B1=D8=A7=D8=AA =D8=B2=D9=85=D9=86=D9=8A=D8=A9 =D8=A3=D8=B7=
+=D9=88=D9=84 =D8=AA=D8=AF=D8=B1=D9=8A=D8=AC=D9=8A=D9=8B=D8=A7 (=D8=B9=D9=84=
+=D9=89 =D8=B3=D8=A8=D9=8A=D9=84 =D8=A7=D9=84=D9=85=D8=AB=D8=A7=D9=84=D8=8C =
+=D9=8A=D9=88=D9=85 =D9=88=D8=A7=D8=AD=D8=AF=D8=8C =D8=AB=D9=85 =D8=AB=D9=84=
+=D8=A7=D8=AB=D8=A9 =D8=A3=D9=8A=D8=A7=D9=85=D8=8C =D8=AB=D9=85 =D8=A3=D8=B3=
+=D8=A8=D9=88=D8=B9=D8=8C =D8=AB=D9=85 =D8=B4=D9=87=D8=B1).</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"active-techniques-2">
+                                                =F0=9F=A4=94 =D8=A7=D9=84=
+=D8=A7=D8=B3=D8=AA=D8=AC=D9=88=D8=A7=D8=A8 =D8=A7=D9=84=D8=AA=D9=81=D8=B5=
+=D9=8A=D9=84=D9=8A: =D8=A7=D9=84=D8=B3=D8=A4=D8=A7=D9=84 =D8=A8=D9=80 "=D9=
+=84=D9=85=D8=A7=D8=B0=D8=A7" =D9=84=D8=A5=D9=82=D8=A7=D9=85=D8=A9 =D8=B1=D9=
+=88=D8=A7=D8=A8=D8=B7 =D8=B9=D9=85=D9=8A=D9=82=D8=A9
+                                            </h3>
+                                            <div id=3D"active-techniques-2"=
+ class=3D"details-pane px-4 text-stone-600">
+                                                <p>=D8=A7=D8=B3=D8=AA=D8=B1=
+=D8=A7=D8=AA=D9=8A=D8=AC=D9=8A=D8=A9 =D8=AA=D8=B9=D9=84=D9=85 =D9=86=D8=B4=
+=D8=B7 =D8=AA=D8=AA=D8=AC=D8=A7=D9=88=D8=B2 =D8=A7=D9=84=D8=AD=D9=81=D8=B8 =
+=D8=A7=D9=84=D8=B3=D8=B7=D8=AD=D9=8A =D9=85=D9=86 =D8=AE=D9=84=D8=A7=D9=84 =
+=D8=AF=D9=81=D8=B9 =D8=A7=D9=84=D9=85=D8=AA=D8=B9=D9=84=D9=85=D9=8A=D9=86 =
+=D9=84=D8=B4=D8=B1=D8=AD *=D9=84=D9=85=D8=A7=D8=B0=D8=A7* =D9=88 *=D9=83=D9=
+=8A=D9=81* =D8=AA=D9=83=D9=88=D9=86 =D8=A7=D9=84=D8=AD=D9=82=D8=A7=D8=A6=D9=
+=82 =D9=88=D8=A7=D9=84=D9=85=D9=81=D8=A7=D9=87=D9=8A=D9=85 =D8=B5=D8=AD=D9=
+=8A=D8=AD=D8=A9. =D8=AA=D8=B9=D8=B2=D8=B2 =D9=87=D8=B0=D9=87 =D8=A7=D9=84=
+=D8=B9=D9=85=D9=84=D9=8A=D8=A9 =D9=81=D9=87=D9=85=D9=8B=D8=A7 =D8=A3=D8=B9=
+=D9=85=D9=82 =D9=88=D8=AA=D8=AF=D9=85=D8=AC =D8=A7=D9=84=D9=85=D8=B9=D9=84=
+=D9=88=D9=85=D8=A7=D8=AA =D8=A7=D9=84=D8=AC=D8=AF=D9=8A=D8=AF=D8=A9 =D9=85=
+=D8=B9 =D8=A7=D9=84=D9=85=D8=B9=D8=B1=D9=81=D8=A9 =D8=A7=D9=84=D9=85=D9=88=
+=D8=AC=D9=88=D8=AF=D8=A9 =D9=85=D8=B3=D8=A8=D9=82=D9=8B=D8=A7.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"active-techniques-3">
+                                                =F0=9F=91=A8=E2=80=8D=F0=9F=
+=8F=AB =D8=AA=D9=82=D9=86=D9=8A=D8=A9 =D9=81=D8=A7=D9=8A=D9=86=D9=85=D8=A7=
+=D9=86: =D8=AA=D8=B1=D8=B3=D9=8A=D8=AE =D8=A7=D9=84=D9=85=D8=B9=D8=B1=D9=81=
+=D8=A9 =D9=85=D9=86 =D8=AE=D9=84=D8=A7=D9=84 =D8=A7=D9=84=D8=B4=D8=B1=D8=AD
+                                            </h3>
+                                            <div id=3D"active-techniques-3"=
+ class=3D"details-pane px-4 text-stone-600">
+                                                <p>=D8=AA=D8=AA=D8=B6=D9=85=
+=D9=86 =D9=87=D8=B0=D9=87 =D8=A7=D9=84=D8=AA=D9=82=D9=86=D9=8A=D8=A9 =D8=A7=
+=D9=84=D9=82=D9=88=D9=8A=D8=A9 =D8=B4=D8=B1=D8=AD =D9=85=D9=81=D9=87=D9=88=
+=D9=85 =D9=85=D8=A7 =D8=A8=D8=B9=D8=A8=D8=A7=D8=B1=D8=A7=D8=AA =D8=A8=D8=B3=
+=D9=8A=D8=B7=D8=A9 =D9=84=D8=B4=D8=AE=D8=B5 =D8=A2=D8=AE=D8=B1 (=D8=A3=D9=
+=88 =D8=AD=D8=AA=D9=89 =D9=84=D9=86=D9=81=D8=B3=D9=83)=D8=8C =D9=88=D9=87=
+=D9=8A =D8=B9=D9=85=D9=84=D9=8A=D8=A9 =D8=AA=D9=83=D8=B4=D9=81 =D8=A8=D8=B5=
+=D8=B1=D8=A7=D9=85=D8=A9 =D8=B9=D9=86 =D8=A3=D9=8A =D9=81=D8=AC=D9=88=D8=A7=
+=D8=AA =D9=81=D9=8A =D8=A7=D9=84=D9=81=D9=87=D9=85. =D8=A5=D8=B0=D8=A7 =D9=
+=83=D9=86=D8=AA =D9=84=D8=A7 =D8=AA=D8=B3=D8=AA=D8=B7=D9=8A=D8=B9 =D8=B4=D8=
+=B1=D8=AD=D9=87 =D8=A8=D8=A8=D8=B3=D8=A7=D8=B7=D8=A9=D8=8C =D9=81=D8=A3=D9=
+=86=D8=AA =D9=84=D8=A7 =D8=AA=D9=81=D9=87=D9=85=D9=87 =D8=AC=D9=8A=D8=AF=D9=
+=8B=D8=A7 =D8=A8=D9=85=D8=A7 =D9=81=D9=8A=D9=87 =D8=A7=D9=84=D9=83=D9=81=D8=
+=A7=D9=8A=D8=A9.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                </div>
+                            </div>
+                        </div>
+                   =20
+                        <div id=3D"organization" class=3D"tab-pane hidden">
+                            <div class=3D"content-card p-6 md:p-8">
+                                <h2 class=3D"text-2xl md:text-3xl font-bold=
+ mb-4 text-stone-700">=D8=AA=D8=AF=D9=88=D9=8A=D9=86 =D8=A7=D9=84=D9=85=D9=
+=84=D8=A7=D8=AD=D8=B8=D8=A7=D8=AA =D8=A7=D9=84=D8=B0=D9=83=D9=8A =D9=88=D8=
+=AA=D9=86=D8=B8=D9=8A=D9=85 =D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=
+=A7=D8=AA</h2>
+                                <p class=3D"text-stone-600 mb-8">=D8=AA=D8=
+=AF=D9=88=D9=8A=D9=86 =D8=A7=D9=84=D9=85=D9=84=D8=A7=D8=AD=D8=B8=D8=A7=D8=
+=AA =D8=A7=D9=84=D9=81=D8=B9=D8=A7=D9=84 =D9=84=D9=8A=D8=B3 =D9=85=D8=AC=D8=
+=B1=D8=AF =D9=86=D8=B3=D8=AE =D8=B3=D9=84=D8=A8=D9=8A=D8=8C =D8=A8=D9=84 =
+=D9=87=D9=88 =D8=B9=D9=85=D9=84=D9=8A=D8=A9 =D8=AA=D8=B9=D9=84=D9=85 =D9=86=
+=D8=B4=D8=B7=D8=A9 =D8=AA=D8=B3=D8=A7=D9=87=D9=85 =D9=81=D9=8A =D8=A7=D9=84=
+=D9=81=D9=87=D9=85 =D8=A7=D9=84=D8=A3=D9=88=D9=84=D9=8A =D9=88=D8=AA=D9=85=
+=D9=87=D8=AF =D8=A7=D9=84=D8=B7=D8=B1=D9=8A=D9=82 =D9=84=D9=84=D8=A7=D8=B3=
+=D8=AA=D8=AF=D8=B9=D8=A7=D8=A1 =D9=84=D8=A7=D8=AD=D9=82=D9=8B=D8=A7. =D9=87=
+=D8=B0=D8=A7 =D8=A7=D9=84=D9=82=D8=B3=D9=85 =D9=8A=D8=B3=D8=AA=D8=B9=D8=B1=
+=D8=B6 =D8=B7=D8=B1=D9=82=D9=8B=D8=A7 =D9=85=D9=86=D8=B8=D9=85=D8=A9 =D9=84=
+=D8=AA=D9=86=D8=B8=D9=8A=D9=85 =D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=
+=D8=A7=D8=AA=D8=8C =D9=85=D9=85=D8=A7 =D9=8A=D8=AD=D9=88=D9=84 =D9=85=D9=84=
+=D8=A7=D8=AD=D8=B8=D8=A7=D8=AA=D9=83 =D8=A5=D9=84=D9=89 =D8=A3=D8=AF=D9=88=
+=D8=A7=D8=AA =D8=AA=D8=B9=D9=84=D9=85 =D9=82=D9=88=D9=8A=D8=A9.</p>
+                                <div class=3D"space-y-8">
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"organization-0">
+                                                =F0=9F=93=9D =D8=B7=D8=B1=
+=D9=8A=D9=82=D8=A9 =D9=83=D9=88=D8=B1=D9=86=D9=8A=D9=84 =D9=84=D8=AA=D8=AF=
+=D9=88=D9=8A=D9=86 =D8=A7=D9=84=D9=85=D9=84=D8=A7=D8=AD=D8=B8=D8=A7=D8=AA
+                                            </h3>
+                                            <div id=3D"organization-0" clas=
+s=3D"details-pane px-4 text-stone-600">
+                                                <p>=D9=86=D9=87=D8=AC =D9=
+=85=D9=86=D9=87=D8=AC=D9=8A =D9=84=D8=AA=D8=AF=D9=88=D9=8A=D9=86 =D8=A7=D9=
+=84=D9=85=D9=84=D8=A7=D8=AD=D8=B8=D8=A7=D8=AA =D9=85=D8=B5=D9=85=D9=85 =D9=
+=84=D8=AA=D8=B9=D8=B2=D9=8A=D8=B2 =D8=A7=D9=84=D8=AA=D8=B9=D9=84=D9=85 =D8=
+=A7=D9=84=D9=86=D8=B4=D8=B7 =D9=88=D8=A7=D9=84=D9=85=D8=B1=D8=A7=D8=AC=D8=
+=B9=D8=A9 =D9=88=D8=A7=D9=84=D8=A7=D8=AE=D8=AA=D8=A8=D8=A7=D8=B1 =D8=A7=D9=
+=84=D8=B0=D8=A7=D8=AA=D9=8A =D9=85=D8=A8=D8=A7=D8=B4=D8=B1=D8=A9 =D8=AF=D8=
+=A7=D8=AE=D9=84 =D9=85=D9=84=D8=A7=D8=AD=D8=B8=D8=A7=D8=AA=D9=83. =D9=8A=D9=
+=82=D8=B3=D9=85 =D8=A7=D9=84=D8=B5=D9=81=D8=AD=D8=A9 =D8=A5=D9=84=D9=89 =D8=
+=AB=D9=84=D8=A7=D8=AB=D8=A9 =D8=A3=D9=82=D8=B3=D8=A7=D9=85: =D9=85=D9=86=D8=
+=B7=D9=82=D8=A9 =D8=AA=D8=AF=D9=88=D9=8A=D9=86 =D8=A7=D9=84=D9=85=D9=84=D8=
+=A7=D8=AD=D8=B8=D8=A7=D8=AA =D8=A7=D9=84=D8=B1=D8=A6=D9=8A=D8=B3=D9=8A=D8=
+=A9=D8=8C =D9=88=D8=B9=D9=85=D9=88=D8=AF =D8=A7=D9=84=D8=AA=D9=84=D9=85=D9=
+=8A=D8=AD=D8=A7=D8=AA =D9=84=D9=84=D9=83=D9=84=D9=85=D8=A7=D8=AA =D8=A7=D9=
+=84=D8=B1=D8=A6=D9=8A=D8=B3=D9=8A=D8=A9 =D9=88=D8=A7=D9=84=D8=A3=D8=B3=D8=
+=A6=D9=84=D8=A9=D8=8C =D9=88=D9=82=D8=B3=D9=85 =D8=A7=D9=84=D9=85=D9=84=D8=
+=AE=D8=B5=D8=A7=D8=AA =D9=81=D9=8A =D8=A7=D9=84=D8=A3=D8=B3=D9=81=D9=84.</p=
+>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"organization-1">
+                                                =F0=9F=97=BA=EF=B8=8F =D8=
+=A7=D9=84=D8=AE=D8=B1=D8=A7=D8=A6=D8=B7 =D8=A7=D9=84=D8=B0=D9=87=D9=86=D9=
+=8A=D8=A9: =D8=AA=D8=B5=D9=88=D8=B1 =D8=A7=D9=84=D8=B1=D9=88=D8=A7=D8=A8=D8=
+=B7 =D9=88=D8=A7=D9=84=D9=85=D9=81=D8=A7=D9=87=D9=8A=D9=85
+                                            </h3>
+                                            <div id=3D"organization-1" clas=
+s=3D"details-pane px-4 text-stone-600">
+                                                <p>=D8=AA=D9=82=D9=86=D9=8A=
+=D8=A9 =D8=AA=D8=AF=D9=88=D9=8A=D9=86 =D9=85=D9=84=D8=A7=D8=AD=D8=B8=D8=A7=
+=D8=AA =D9=85=D8=B1=D8=A6=D9=8A=D8=A9 =D8=BA=D9=8A=D8=B1 =D8=AE=D8=B7=D9=8A=
+=D8=A9 =D8=AA=D9=86=D8=B8=D9=85 =D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=
+=D8=A7=D8=AA =D8=AD=D9=88=D9=84 =D9=85=D9=81=D9=87=D9=88=D9=85 =D9=85=D8=B1=
+=D9=83=D8=B2=D9=8A=D8=8C =D9=85=D9=85=D8=A7 =D9=8A=D8=AC=D8=B9=D9=84 =D8=A7=
+=D9=84=D8=A3=D9=81=D9=83=D8=A7=D8=B1 =D8=A7=D9=84=D9=85=D8=B9=D9=82=D8=AF=
+=D8=A9 =D8=A3=D9=83=D8=AB=D8=B1 =D8=B3=D9=87=D9=88=D9=84=D8=A9 =D9=81=D9=8A=
+ =D8=A7=D9=84=D9=88=D8=B5=D9=88=D9=84 =D8=A5=D9=84=D9=8A=D9=87=D8=A7 =D9=88=
+=D8=AA=D8=B0=D9=83=D8=B1=D9=87=D8=A7. =D8=A5=D9=86=D9=87=D8=A7 =D9=85=D9=85=
+=D8=AA=D8=A7=D8=B2=D8=A9 =D9=84=D8=B1=D8=A8=D8=B7 =D8=A7=D9=84=D8=A3=D9=81=
+=D9=83=D8=A7=D8=B1 =D9=88=D8=B1=D8=A4=D9=8A=D8=A9 =D8=A7=D9=84=D8=B5=D9=88=
+=D8=B1=D8=A9 =D8=A7=D9=84=D9=83=D8=A8=D9=8A=D8=B1=D8=A9.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"organization-2">
+                                                =F0=9F=94=97 =D8=A7=D9=84=
+=D8=AA=D8=B9=D9=84=D9=85 =D8=A7=D9=84=D8=AA=D8=B1=D8=A7=D8=A8=D8=B7=D9=8A =
+=D9=88=D8=A7=D9=84=D8=AA=D8=AC=D9=85=D9=8A=D8=B9 (Chunking)
+                                            </h3>
+                                            <div id=3D"organization-2" clas=
+s=3D"details-pane px-4 text-stone-600">
+                                                <p><strong>=D8=A7=D9=84=D8=
+=AA=D8=B9=D9=84=D9=85 =D8=A7=D9=84=D8=AA=D8=B1=D8=A7=D8=A8=D8=B7=D9=8A:</st=
+rong> =D8=B1=D8=A8=D8=B7 =D9=85=D8=A7=D8=AF=D8=A9 =D8=A7=D9=84=D8=AF=D8=B1=
+=D8=A7=D8=B3=D8=A9 =D8=A7=D9=84=D8=AC=D8=AF=D9=8A=D8=AF=D8=A9 =D8=A8=D8=B4=
+=D9=8A=D8=A1 =D8=AA=D8=B9=D8=B1=D9=81=D9=87 =D8=A8=D8=A7=D9=84=D9=81=D8=B9=
+=D9=84. <strong>=D8=A7=D9=84=D8=AA=D8=AC=D9=85=D9=8A=D8=B9:</strong> =D8=AA=
+=D9=86=D8=B8=D9=8A=D9=85 =D8=A3=D9=88 =D8=AA=D8=AC=D9=85=D9=8A=D8=B9 =D8=A3=
+=D8=AC=D8=B2=D8=A7=D8=A1 =D9=85=D9=86=D9=81=D8=B5=D9=84=D8=A9 =D9=85=D9=86 =
+=D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=A7=D8=AA =D9=85=D8=B9=D9=8B=
+=D8=A7. =D9=87=D8=B0=D9=87 =D8=A7=D9=84=D8=A7=D8=B3=D8=AA=D8=B1=D8=A7=D8=AA=
+=D9=8A=D8=AC=D9=8A=D8=A7=D8=AA =D8=AA=D8=B3=D8=AA=D9=81=D9=8A=D8=AF =D9=85=
+=D9=86 =D8=AA=D9=81=D8=B6=D9=8A=D9=84 =D8=A7=D9=84=D8=AF=D9=85=D8=A7=D8=BA =
+=D9=84=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=A7=D8=AA =D8=A7=D9=84=D9=85=
+=D8=AA=D8=B1=D8=A7=D8=A8=D8=B7=D8=A9 =D9=88=D8=A7=D9=84=D9=85=D9=86=D8=B8=
+=D9=85=D8=A9.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"organization-3">
+                                                =F0=9F=8F=9B=EF=B8=8F =D9=
+=81=D9=86 =D8=A7=D9=84=D8=A7=D8=B3=D8=AA=D8=B0=D9=83=D8=A7=D8=B1 =D9=88=D8=
+=A7=D9=84=D8=AA=D8=B5=D9=88=D8=B1: =D9=85=D8=B3=D8=A7=D8=B9=D8=AF=D8=A7=D8=
+=AA =D8=A7=D9=84=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=A7=D9=84=D8=A5=D8=A8=D8=
+=AF=D8=A7=D8=B9=D9=8A=D8=A9
+                                            </h3>
+                                            <div id=3D"organization-3" clas=
+s=3D"details-pane px-4 text-stone-600">
+                                                <p>=D8=AA=D9=82=D9=86=D9=8A=
+=D8=A7=D8=AA =D8=B0=D9=83=D9=8A=D8=A9 =D8=AA=D8=B3=D8=AA=D9=81=D9=8A=D8=AF =
+=D9=85=D9=86 =D9=82=D8=AF=D8=B1=D8=A9 =D8=A7=D9=84=D8=AF=D9=85=D8=A7=D8=BA =
+=D8=A7=D9=84=D8=B7=D8=A8=D9=8A=D8=B9=D9=8A=D8=A9 =D8=B9=D9=84=D9=89 =D8=AA=
+=D8=B0=D9=83=D8=B1 =D8=A7=D9=84=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=A7=D8=AA =
+=D8=A7=D9=84=D8=AD=D9=8A=D8=A9 =D8=A3=D9=88 =D8=BA=D9=8A=D8=B1 =D8=A7=D9=84=
+=D8=B9=D8=A7=D8=AF=D9=8A=D8=A9 =D8=A3=D9=88 =D8=A7=D9=84=D9=85=D9=86=D8=B8=
+=D9=85=D8=A9. =D8=AA=D8=B9=D8=AF =D8=AA=D9=82=D9=86=D9=8A=D8=A9 <strong>=D9=
+=82=D8=B5=D8=B1 =D8=A7=D9=84=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 (=D8=B7=D8=B1=D9=
+=8A=D9=82=D8=A9 =D8=A7=D9=84=D9=85=D9=88=D8=A7=D9=82=D8=B9)</strong> =D9=86=
+=D8=B8=D8=A7=D9=85=D9=8B=D8=A7 =D9=82=D9=88=D9=8A=D9=8B=D8=A7 =D9=8A=D8=B9=
+=D8=AA=D9=85=D8=AF =D8=B9=D9=84=D9=89 =D8=A7=D9=84=D8=AE=D9=8A=D8=A7=D9=84 =
+=D9=88=D8=A7=D9=84=D8=A7=D8=B1=D8=AA=D8=A8=D8=A7=D8=B7 =D9=88=D8=A7=D9=84=
+=D9=85=D9=88=D9=82=D8=B9 =D9=84=D8=AA=D8=AE=D8=B2=D9=8A=D9=86 =D8=A7=D9=84=
+=D9=85=D8=B9=D9=84=D9=88=D9=85=D8=A7=D8=AA =D9=88=D8=A7=D8=B3=D8=AA=D8=B1=
+=D8=AC=D8=A7=D8=B9=D9=87=D8=A7.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                </div>
+                            </div>
+                        </div>
+                   =20
+                        <div id=3D"exam-mastery" class=3D"tab-pane hidden">
+                            <div class=3D"content-card p-6 md:p-8">
+                                <h2 class=3D"text-2xl md:text-3xl font-bold=
+ mb-4 text-stone-700">=D8=A5=D8=AA=D9=82=D8=A7=D9=86 =D8=A7=D9=84=D8=A7=D9=
+=85=D8=AA=D8=AD=D8=A7=D9=86=D8=A7=D8=AA: =D8=A7=D9=84=D8=A5=D8=B9=D8=AF=D8=
+=A7=D8=AF =D8=A7=D9=84=D8=A7=D8=B3=D8=AA=D8=B1=D8=A7=D8=AA=D9=8A=D8=AC=D9=
+=8A =D9=88=D8=AE=D9=88=D8=B6 =D8=A7=D9=84=D8=A7=D8=AE=D8=AA=D8=A8=D8=A7=D8=
+=B1=D8=A7=D8=AA</h2>
+                                <p class=3D"text-stone-600 mb-8">=D8=A7=D9=
+=84=D8=AA=D8=AD=D8=B6=D9=8A=D8=B1 =D8=A7=D9=84=D9=81=D8=B9=D8=A7=D9=84 =D9=
+=84=D9=84=D8=A7=D9=85=D8=AA=D8=AD=D8=A7=D9=86 =D9=87=D9=88 =D8=B9=D9=85=D9=
+=84=D9=8A=D8=A9 =D9=85=D8=B3=D8=AA=D9=85=D8=B1=D8=A9 =D8=AA=D8=AF=D9=85=D8=
+=AC =D8=A7=D9=84=D8=AA=D8=B9=D9=84=D9=85 =D8=A7=D9=84=D9=86=D8=B4=D8=B7 =D9=
+=88=D8=A7=D9=84=D9=85=D8=B1=D8=A7=D8=AC=D8=B9=D8=A9 =D8=A7=D9=84=D9=85=D8=
+=AA=D8=B3=D9=82=D8=A9=D8=8C =D8=A8=D8=AF=D9=84=D8=A7=D9=8B =D9=85=D9=86 =D8=
+=A3=D9=86 =D9=8A=D9=83=D9=88=D9=86 =D8=AC=D9=87=D8=AF=D9=8B=D8=A7 =D9=85=D8=
+=AD=D9=85=D9=88=D9=85=D9=8B=D8=A7 =D9=81=D9=8A =D8=A7=D9=84=D9=84=D8=AD=D8=
+=B8=D8=A9 =D8=A7=D9=84=D8=A3=D8=AE=D9=8A=D8=B1=D8=A9. =D8=AA=D8=B9=D9=84=D9=
+=85 =D9=83=D9=8A=D9=81=D9=8A=D8=A9 =D8=A7=D9=84=D8=AA=D8=AD=D8=B6=D9=8A=D8=
+=B1 =D8=A8=D8=AB=D9=82=D8=A9=D8=8C =D9=88=D8=A7=D9=84=D8=AA=D9=86=D9=82=D9=
+=84 =D9=81=D9=8A =D8=A3=D9=86=D9=88=D8=A7=D8=B9 =D8=A7=D9=84=D8=A3=D8=B3=D8=
+=A6=D9=84=D8=A9 =D8=A7=D9=84=D9=85=D8=AE=D8=AA=D9=84=D9=81=D8=A9=D8=8C =D9=
+=88=D8=A5=D8=AF=D8=A7=D8=B1=D8=A9 =D9=82=D9=84=D9=82 =D8=A7=D9=84=D8=A7=D8=
+=AE=D8=AA=D8=A8=D8=A7=D8=B1 =D9=84=D8=AA=D8=AD=D9=82=D9=8A=D9=82 =D8=A3=D9=
+=81=D8=B6=D9=84 =D8=A3=D8=AF=D8=A7=D8=A1 =D9=84=D9=83.</p>
+                                <div class=3D"space-y-8">
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"exam-mastery-0">
+                                                =F0=9F=9A=80 =D8=A7=D9=84=
+=D8=AA=D8=AD=D8=B6=D9=8A=D8=B1 =D9=84=D9=84=D9=86=D8=AC=D8=A7=D8=AD: =D9=85=
+=D8=A7 =D9=88=D8=B1=D8=A7=D8=A1 =D8=A7=D9=84=D8=AD=D8=B4=D9=88 =D9=81=D9=8A=
+ =D8=A7=D9=84=D9=84=D8=AD=D8=B8=D8=A9 =D8=A7=D9=84=D8=A3=D8=AE=D9=8A=D8=B1=
+=D8=A9
+                                            </h3>
+                                            <div id=3D"exam-mastery-0" clas=
+s=3D"details-pane px-4 text-stone-600">
+                                                <p>=D8=AA=D8=AC=D9=86=D8=A8=
+ "=D8=A7=D9=84=D8=AD=D8=B4=D9=88" =D8=A7=D9=84=D8=B0=D9=8A =D8=BA=D8=A7=D9=
+=84=D8=A8=D9=8B=D8=A7 =D9=85=D8=A7 =D9=8A=D9=83=D9=88=D9=86 =D8=B6=D8=A7=D8=
+=B1=D9=8B=D8=A7. =D8=A8=D8=AF=D9=84=D8=A7=D9=8B =D9=85=D9=86 =D8=B0=D9=84=
+=D9=83=D8=8C =D8=B1=D9=83=D8=B2 =D8=B9=D9=84=D9=89 =D8=AC=D9=84=D8=B3=D8=A7=
+=D8=AA =D9=85=D8=B1=D8=A7=D8=AC=D8=B9=D8=A9 =D9=85=D8=AA=D8=B3=D9=82=D8=A9=
+=D8=8C =D9=88=D8=A7=D8=B3=D8=AA=D8=AE=D8=AF=D9=85 =D8=A7=D9=84=D8=A7=D8=AE=
+=D8=AA=D8=A8=D8=A7=D8=B1=D8=A7=D8=AA =D8=A7=D9=84=D8=AA=D8=AF=D8=B1=D9=8A=
+=D8=A8=D9=8A=D8=A9 =D9=83=D8=A3=D8=AF=D9=88=D8=A7=D8=AA =D8=AA=D8=B9=D9=84=
+=D9=8A=D9=85=D9=8A=D8=A9 =D9=82=D9=88=D9=8A=D8=A9=D8=8C =D9=88=D9=82=D9=85 =
+=D8=A8=D8=AA=D9=86=D8=B8=D9=8A=D9=85 =D9=85=D9=88=D8=A7=D8=AF=D9=83 =D9=85=
+=D8=B3=D8=A8=D9=82=D9=8B=D8=A7. =D8=A7=D9=84=D8=B1=D8=A7=D8=AD=D8=A9 =D8=A7=
+=D9=84=D9=83=D8=A7=D9=81=D9=8A=D8=A9 =D8=A3=D9=85=D8=B1 =D8=A8=D8=A7=D9=84=
+=D8=BA =D8=A7=D9=84=D8=A3=D9=87=D9=85=D9=8A=D8=A9 =D8=A3=D9=8A=D8=B6=D9=8B=
+=D8=A7.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"exam-mastery-1">
+                                                =F0=9F=92=A1 =D9=86=D8=B5=
+=D8=A7=D8=A6=D8=AD =D9=84=D8=A7=D8=AC=D8=AA=D9=8A=D8=A7=D8=B2 =D8=A7=D9=84=
+=D8=A7=D8=AE=D8=AA=D8=A8=D8=A7=D8=B1=D8=A7=D8=AA: =D8=A7=D9=84=D8=A7=D8=AE=
+=D8=AA=D9=8A=D8=A7=D8=B1 =D9=85=D9=86 =D9=85=D8=AA=D8=B9=D8=AF=D8=AF =D9=88=
+=D8=A7=D9=84=D8=A3=D8=B3=D8=A6=D9=84=D8=A9 =D8=A7=D9=84=D9=85=D9=82=D8=A7=
+=D9=84=D9=8A=D8=A9
+                                            </h3>
+                                            <div id=3D"exam-mastery-1" clas=
+s=3D"details-pane px-4 text-stone-600">
+                                               =20
+                                <strong class=3D"block mb-2">=D9=86=D8=B5=
+=D8=A7=D8=A6=D8=AD =D8=B9=D8=A7=D9=85=D8=A9:</strong>
+                                <ul class=3D"list-disc list-inside space-y-=
+1 mb-4">
+                                    <li>=D9=82=D9=85 =D8=A8=D9=85=D8=B3=D8=
+=AD =D8=A7=D9=84=D8=A7=D8=AE=D8=AA=D8=A8=D8=A7=D8=B1 =D8=A3=D9=88=D9=84=D8=
+=A7=D9=8B =D9=84=D9=81=D9=87=D9=85 =D9=87=D9=8A=D9=83=D9=84=D9=87.</li>
+                                    <li>=D8=A3=D8=AC=D8=A8 =D8=B9=D9=84=D9=
+=89 =D8=A7=D9=84=D8=A3=D8=B3=D8=A6=D9=84=D8=A9 =D8=A7=D9=84=D8=A3=D8=B3=D9=
+=87=D9=84 =D8=A3=D9=88=D9=84=D8=A7=D9=8B =D9=84=D8=A8=D9=86=D8=A7=D8=A1 =D8=
+=A7=D9=84=D8=AB=D9=82=D8=A9.</li>
+                                    <li>=D8=B1=D8=A7=D9=82=D8=A8 =D9=88=D9=
+=82=D8=AA=D9=83 =D8=A8=D8=B9=D9=86=D8=A7=D9=8A=D8=A9.</li>
+                                </ul>
+                                <strong class=3D"block mb-2">=D9=86=D8=B5=
+=D8=A7=D8=A6=D8=AD =D9=84=D9=84=D8=A7=D8=AE=D8=AA=D9=8A=D8=A7=D8=B1 =D9=85=
+=D9=86 =D9=85=D8=AA=D8=B9=D8=AF=D8=AF:</strong>
+                                <ul class=3D"list-disc list-inside space-y-=
+1">
+                                    <li>=D8=A7=D9=82=D8=B1=D8=A3 =D8=A7=D9=
+=84=D8=B3=D8=A4=D8=A7=D9=84 =D8=A8=D8=B9=D9=86=D8=A7=D9=8A=D8=A9 =D9=88=D8=
+=AD=D8=A7=D9=88=D9=84 =D8=AA=D9=88=D9=82=D8=B9 =D8=A7=D9=84=D8=A5=D8=AC=D8=
+=A7=D8=A8=D8=A9 =D9=82=D8=A8=D9=84 =D8=A7=D9=84=D9=86=D8=B8=D8=B1 =D8=A5=D9=
+=84=D9=89 =D8=A7=D9=84=D8=AE=D9=8A=D8=A7=D8=B1=D8=A7=D8=AA.</li>
+                                    <li>=D8=A7=D8=AD=D8=B0=D9=81 =D8=A7=D9=
+=84=D8=A5=D8=AC=D8=A7=D8=A8=D8=A7=D8=AA =D8=BA=D9=8A=D8=B1 =D8=A7=D9=84=D8=
+=B5=D8=AD=D9=8A=D8=AD=D8=A9 =D8=A7=D9=84=D9=85=D8=B9=D8=B1=D9=88=D9=81=D8=
+=A9.</li>
+                                    <li>=D8=AB=D9=82 =D9=81=D9=8A =D8=A7=D8=
+=AE=D8=AA=D9=8A=D8=A7=D8=B1=D9=83 =D8=A7=D9=84=D8=A3=D9=88=D9=84 =D9=85=D8=
+=A7 =D9=84=D9=85 =D8=AA=D9=83=D9=86 =D9=85=D8=AA=D8=A3=D9=83=D8=AF=D9=8B=D8=
+=A7 =D9=85=D9=86 =D9=88=D8=AC=D9=88=D8=AF =D8=AE=D8=B7=D8=A3.</li>
+                                </ul>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"exam-mastery-2">
+                                                =F0=9F=A7=98 =D8=A5=D8=AF=
+=D8=A7=D8=B1=D8=A9 =D9=82=D9=84=D9=82 =D8=A7=D9=84=D8=A7=D8=AE=D8=AA=D8=A8=
+=D8=A7=D8=B1: =D8=A7=D9=84=D8=AD=D9=81=D8=A7=D8=B8 =D8=B9=D9=84=D9=89 =D8=
+=A7=D9=84=D9=87=D8=AF=D9=88=D8=A1 =D8=AA=D8=AD=D8=AA =D8=A7=D9=84=D8=B6=D8=
+=BA=D8=B7
+                                            </h3>
+                                            <div id=3D"exam-mastery-2" clas=
+s=3D"details-pane px-4 text-stone-600">
+                                                <p>=D9=8A=D9=85=D9=83=D9=86=
+ =D8=A3=D9=86 =D9=8A=D8=B9=D9=8A=D9=82 =D9=82=D9=84=D9=82 =D8=A7=D9=84=D8=
+=A7=D8=AE=D8=AA=D8=A8=D8=A7=D8=B1 =D8=A7=D9=84=D8=A3=D8=AF=D8=A7=D8=A1 =D8=
+=A8=D8=B4=D9=83=D9=84 =D9=83=D8=A8=D9=8A=D8=B1. =D8=A7=D8=B3=D8=AA=D8=AE=D8=
+=AF=D9=85 =D8=AA=D9=82=D9=86=D9=8A=D8=A7=D8=AA =D8=A7=D9=84=D8=A7=D8=B3=D8=
+=AA=D8=B1=D8=AE=D8=A7=D8=A1 =D9=85=D8=AB=D9=84 =D8=A7=D9=84=D8=AA=D9=86=D9=
+=81=D8=B3 =D8=A7=D9=84=D8=B9=D9=85=D9=8A=D9=82=D8=8C =D9=88=D8=AA=D8=A3=D9=
+=83=D8=AF =D9=85=D9=86 =D8=A7=D9=84=D8=AD=D8=B5=D9=88=D9=84 =D8=B9=D9=84=D9=
+=89 =D9=82=D8=B3=D8=B7 =D9=83=D8=A7=D9=81=D9=8D =D9=85=D9=86 =D8=A7=D9=84=
+=D9=86=D9=88=D9=85 =D9=88=D9=85=D9=85=D8=A7=D8=B1=D8=B3=D8=A9 =D8=A7=D9=84=
+=D8=AA=D9=85=D8=A7=D8=B1=D9=8A=D9=86 =D8=A7=D9=84=D8=B1=D9=8A=D8=A7=D8=B6=
+=D9=8A=D8=A9 =D8=A8=D8=A7=D9=86=D8=AA=D8=B8=D8=A7=D9=85. =D8=A7=D9=84=D8=AF=
+=D8=B1=D8=A7=D8=B3=D8=A9 =D8=A8=D9=83=D9=81=D8=A7=D8=A1=D8=A9 =D9=85=D8=B9 =
+=D9=85=D8=B1=D9=88=D8=B1 =D8=A7=D9=84=D9=88=D9=82=D8=AA =D9=87=D9=8A =D8=A3=
+=D9=81=D8=B6=D9=84 =D8=B7=D8=B1=D9=8A=D9=82=D8=A9 =D9=84=D8=AA=D9=82=D9=84=
+=D9=8A=D9=84 =D8=A7=D9=84=D9=82=D9=84=D9=82.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                </div>
+                            </div>
+                        </div>
+                   =20
+                        <div id=3D"toolkit" class=3D"tab-pane ">
+                            <div class=3D"content-card p-6 md:p-8">
+                                <h2 class=3D"text-2xl md:text-3xl font-bold=
+ mb-4 text-stone-700">=D8=A7=D9=84=D8=A3=D8=AF=D9=88=D8=A7=D8=AA =D8=A7=D9=
+=84=D8=B1=D9=82=D9=85=D9=8A=D8=A9: =D8=AA=D8=B9=D8=B2=D9=8A=D8=B2 =D9=83=D9=
+=81=D8=A7=D8=A1=D8=A9 =D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9</h2>
+                                <p class=3D"text-stone-600 mb-8">=D9=8A=D9=
+=85=D9=83=D9=86 =D9=84=D9=84=D8=A3=D8=AF=D9=88=D8=A7=D8=AA =D8=A7=D9=84=D8=
+=B1=D9=82=D9=85=D9=8A=D8=A9 =D8=A3=D9=86 =D8=AA=D8=B9=D8=B2=D8=B2 =D8=A8=D8=
+=B4=D9=83=D9=84 =D9=83=D8=A8=D9=8A=D8=B1 =D9=85=D9=86 =D9=83=D9=81=D8=A7=D8=
+=A1=D8=A9 =D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D9=85=D9=86 =D8=
+=AE=D9=84=D8=A7=D9=84 =D8=AA=D9=88=D9=81=D9=8A=D8=B1 =D8=A8=D9=8A=D8=A6=D8=
+=A7=D8=AA =D9=85=D9=86=D8=B8=D9=85=D8=A9 =D9=88=D9=85=D8=B3=D8=A7=D8=B9=D8=
+=AF=D8=A7=D8=AA =D9=84=D9=84=D8=AA=D8=B1=D9=83=D9=8A=D8=B2. =D9=87=D8=B0=D8=
+=A7 =D8=A7=D9=84=D9=82=D8=B3=D9=85 =D9=8A=D8=B3=D9=84=D8=B7 =D8=A7=D9=84=D8=
+=B6=D9=88=D8=A1 =D8=B9=D9=84=D9=89 =D8=A3=D8=AF=D9=88=D8=A7=D8=AA =D9=85=D8=
+=AC=D8=A7=D9=86=D9=8A=D8=A9 =D9=84=D8=A7 =D8=AA=D8=AA=D8=B7=D9=84=D8=A8 =D8=
+=AA=D8=B3=D8=AC=D9=8A=D9=84 =D8=AF=D8=AE=D9=88=D9=84=D8=8C =D9=85=D9=85=D8=
+=A7 =D9=8A=D9=88=D9=81=D8=B1 =D9=88=D8=B5=D9=88=D9=84=D8=A7=D9=8B =D9=81=D9=
+=88=D8=B1=D9=8A=D9=8B=D8=A7 =D9=84=D8=AF=D8=B9=D9=85 =D8=B9=D8=A7=D8=AF=D8=
+=A7=D8=AA =D8=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=A7=D9=84=D9=
+=81=D8=B9=D8=A7=D9=84=D8=A9.</p>
+                                <div class=3D"space-y-8">
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"toolkit-0">
+                                                =F0=9F=92=BB StudySpace: =
+=D8=B1=D9=81=D9=8A=D9=82=D9=83 =D8=A7=D9=84=D8=B1=D9=82=D9=85=D9=8A =D9=84=
+=D9=84=D8=AA=D8=B1=D9=83=D9=8A=D8=B2
+                                            </h3>
+                                            <div id=3D"toolkit-0" class=3D"=
+details-pane px-4 text-stone-600">
+                                                <p>=D9=85=D8=B3=D8=A7=D8=AD=
+=D8=A9 =D8=B9=D9=85=D9=84 =D8=BA=D8=A7=D9=85=D8=B1=D8=A9 =D9=85=D8=B5=D9=85=
+=D9=85=D8=A9 =D9=84=D9=84=D8=AA=D8=B1=D9=83=D9=8A=D8=B2 =D8=A7=D9=84=D8=B9=
+=D9=85=D9=8A=D9=82 =D9=88=D8=A5=D8=AF=D8=A7=D8=B1=D8=A9 =D8=A7=D9=84=D9=85=
+=D9=87=D8=A7=D9=85. =D8=AA=D9=88=D9=81=D8=B1 =D8=AE=D9=84=D9=81=D9=8A=D8=A7=
+=D8=AA =D8=AD=D9=8A=D8=A9 =D9=85=D8=B1=D9=8A=D8=AD=D8=A9=D8=8C =D9=88=D9=85=
+=D8=A4=D9=82=D8=AA =D8=A8=D9=88=D9=85=D9=88=D8=AF=D9=88=D8=B1=D9=88=D8=8C =
+=D9=88=D9=85=D9=84=D8=A7=D8=AD=D8=B8=D8=A7=D8=AA=D8=8C =D9=88=D9=82=D8=A7=
+=D8=A6=D9=85=D8=A9 =D9=85=D9=87=D8=A7=D9=85. =D8=A5=D9=86=D9=87=D8=A7 =D9=
+=85=D8=AC=D8=A7=D9=86=D9=8A=D8=A9 =D9=88=D9=84=D8=A7 =D8=AA=D8=AA=D8=B7=D9=
+=84=D8=A8 =D8=AA=D8=B3=D8=AC=D9=8A=D9=84 =D8=AF=D8=AE=D9=88=D9=84.</p><a hr=
+ef=3D"https://am10.my.canva.site/studyspace" target=3D"_blank" class=3D"inl=
+ine-block mt-2 px-4 py-2 bg-stone-500 text-white rounded-lg hover:bg-stone-=
+600 transition">=D8=B2=D9=8A=D8=A7=D8=B1=D8=A9 StudySpace</a>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"toolkit-1">
+                                                =F0=9F=83=8F Anki: =D9=86=
+=D8=B8=D8=A7=D9=85 =D8=A7=D9=84=D8=AA=D9=83=D8=B1=D8=A7=D8=B1 =D8=A7=D9=84=
+=D9=85=D8=AA=D8=A8=D8=A7=D8=B9=D8=AF
+                                            </h3>
+                                            <div id=3D"toolkit-1" class=3D"=
+details-pane px-4 text-stone-600">
+                                                <p>=D9=86=D8=B8=D8=A7=D9=85=
+ =D8=A8=D8=B7=D8=A7=D9=82=D8=A7=D8=AA =D8=AA=D8=B9=D9=84=D9=8A=D9=85=D9=8A=
+=D8=A9 (Flashcard) =D9=8A=D8=B3=D8=AA=D8=AE=D8=AF=D9=85 =D8=B9=D9=84=D9=89 =
+=D9=86=D8=B7=D8=A7=D9=82 =D9=88=D8=A7=D8=B3=D8=B9 =D9=88=D9=8A=D8=B7=D8=A8=
+=D9=82 =D8=A7=D9=84=D8=AA=D9=83=D8=B1=D8=A7=D8=B1 =D8=A7=D9=84=D9=85=D8=AA=
+=D8=A8=D8=A7=D8=B9=D8=AF. =D9=8A=D8=B3=D9=85=D8=AD =D9=84=D9=84=D9=85=D8=B3=
+=D8=AA=D8=AE=D8=AF=D9=85=D9=8A=D9=86 =D8=A8=D8=AA=D8=AE=D8=B5=D9=8A=D8=B5 =
+=D9=81=D8=AA=D8=B1=D8=A7=D8=AA =D8=A7=D9=84=D9=85=D8=B1=D8=A7=D8=AC=D8=B9=
+=D8=A9 =D8=A8=D9=86=D8=A7=D8=A1=D9=8B =D8=B9=D9=84=D9=89 =D8=A3=D8=AF=D8=A7=
+=D8=A6=D9=87=D9=85 =D9=81=D9=8A =D8=A7=D9=84=D8=A7=D8=B3=D8=AA=D8=AF=D8=B9=
+=D8=A7=D8=A1=D8=8C =D9=85=D9=85=D8=A7 =D9=8A=D8=AC=D8=B9=D9=84=D9=87 =D9=81=
+=D8=B9=D8=A7=D9=84=D8=A7=D9=8B =D9=84=D9=84=D8=BA=D8=A7=D9=8A=D8=A9 =D9=84=
+=D9=84=D8=B0=D8=A7=D9=83=D8=B1=D8=A9 =D8=B7=D9=88=D9=8A=D9=84=D8=A9 =D8=A7=
+=D9=84=D9=85=D8=AF=D9=89.</p><a href=3D"https://apps.ankiweb.net/" target=
+=3D"_blank" class=3D"inline-block mt-2 px-4 py-2 bg-stone-500 text-white ro=
+unded-lg hover:bg-stone-600 transition">=D8=B2=D9=8A=D8=A7=D8=B1=D8=A9 Anki=
+</a>
+                                            </div>
+                                        </article>
+                                   =20
+                                        <article>
+                                            <h3 class=3D"technique-card tex=
+t-xl font-semibold text-stone-700 p-4 rounded-lg bg-stone-50 hover:bg-stone=
+-100" data-pane-id=3D"toolkit-2">
+                                                =F0=9F=8C=90 =D8=A3=D8=AF=
+=D9=88=D8=A7=D8=AA =D8=AD=D8=B8=D8=B1 =D8=A7=D9=84=D9=85=D9=88=D8=A7=D9=82=
+=D8=B9
+                                            </h3>
+                                            <div id=3D"toolkit-2" class=3D"=
+details-pane px-4 text-stone-600">
+                                                <p>=D9=8A=D9=85=D9=83=D9=86=
+ =D9=84=D9=84=D8=AA=D8=B7=D8=A8=D9=8A=D9=82=D8=A7=D8=AA =D8=A3=D9=88 =D8=A5=
+=D8=B6=D8=A7=D9=81=D8=A7=D8=AA =D8=A7=D9=84=D9=85=D8=AA=D8=B5=D9=81=D8=AD =
+=D8=A7=D9=84=D9=85=D8=B5=D9=85=D9=85=D8=A9 =D9=84=D8=AD=D8=B8=D8=B1 =D8=A7=
+=D9=84=D9=85=D9=88=D8=A7=D9=82=D8=B9 =D8=A7=D9=84=D9=85=D8=B4=D8=AA=D8=AA=
+=D8=A9 (=D9=85=D8=AB=D9=84 StayFocusd) =D8=A3=D9=86 =D8=AA=D9=83=D9=88=D9=
+=86 =D9=81=D8=B9=D8=A7=D9=84=D8=A9 =D9=84=D9=84=D8=BA=D8=A7=D9=8A=D8=A9 =D9=
+=81=D9=8A =D8=AA=D9=82=D9=84=D9=8A=D9=84 =D8=A7=D9=84=D9=85=D8=B4=D8=AA=D8=
+=AA=D8=A7=D8=AA =D8=A7=D9=84=D8=A5=D9=84=D9=83=D8=AA=D8=B1=D9=88=D9=86=D9=
+=8A=D8=A9 =D8=A3=D8=AB=D9=86=D8=A7=D8=A1 =D8=AC=D9=84=D8=B3=D8=A7=D8=AA =D8=
+=A7=D9=84=D9=85=D8=B0=D8=A7=D9=83=D8=B1=D8=A9.</p>
+                                            </div>
+                                        </article>
+                                   =20
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+       =20
+        <footer class=3D"text-center mt-12 text-stone-500 text-sm">
+            <p style=3D"direction: rtl;">=D8=AA=D9=85 =D8=A5=D9=86=D8=B4=D8=
+=A7=D8=A4=D9=87 =D9=84=D8=AA=D8=B1=D8=AC=D9=85=D8=A9 =D8=A7=D9=84=D9=85=D8=
+=B9=D8=B1=D9=81=D8=A9 =D8=A5=D9=84=D9=89 =D8=AA=D8=AC=D8=B1=D8=A8=D8=A9 =D8=
+=AA=D9=81=D8=A7=D8=B9=D9=84=D9=8A=D8=A9. =D8=A7=D8=B3=D8=AA=D9=83=D8=B4=D9=
+=81=D8=8C =D8=AA=D9=81=D8=A7=D8=B9=D9=84=D8=8C =D9=88=D8=AA=D8=B9=D9=84=D9=
+=85.</p>
+        </footer>
+    </div>
+
+   =20
+
+
+</body></html>
+------MultipartBoundary--M831JAbSmuCVyXFa2RywDJKPritiimbQcP9YqqFKXM----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscQyyS4J0.woff2") format("woff2"); unicode-range: U+600-=
+6FF, U+750-77F, U+870-88E, U+890-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+=
+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-1=
+02FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1=
+EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE3=
+9, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE5=
+2, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1=
+EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, =
+U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, =
+U+1EEF0-1EEF1; }
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscSCyS4J0.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscRiyS.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscQyyS4J0.woff2") format("woff2"); unicode-range: U+600-=
+6FF, U+750-77F, U+870-88E, U+890-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+=
+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-1=
+02FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1=
+EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE3=
+9, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE5=
+2, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1=
+EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, =
+U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, =
+U+1EEF0-1EEF1; }
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscSCyS4J0.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscRiyS.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscQyyS4J0.woff2") format("woff2"); unicode-range: U+600-=
+6FF, U+750-77F, U+870-88E, U+890-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+=
+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-1=
+02FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1=
+EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE3=
+9, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE5=
+2, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1=
+EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, =
+U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, =
+U+1EEF0-1EEF1; }
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscSCyS4J0.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Cairo; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/cairo/v30/SLXVc1nY6Hk=
+vangtZmpQdkhzfH5lkSscRiyS.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--M831JAbSmuCVyXFa2RywDJKPritiimbQcP9YqqFKXM----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-ada1c401-0fe5-45ff-b6a9-be0e9d14e3e6@mhtml.blink
+
+@charset "utf-8";
+
+*, ::before, ::after { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; =
+--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; -=
+-tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: =
+; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-=
+from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ;=
+ --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-s=
+pacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-widt=
+h: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5=
+); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-sh=
+adow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightne=
+ss: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; =
+--tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --=
+tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale=
+: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opaci=
+ty: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ;=
+ --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+::backdrop { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-trans=
+late-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y=
+: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pin=
+ch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-posit=
+ion: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordi=
+nal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; =
+--tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --=
+tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ri=
+ng-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 =
+#0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw=
+-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-satur=
+ate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdro=
+p-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-b=
+ackdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw=
+-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-cont=
+ain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+*, ::after, ::before { box-sizing: border-box; border-width: 0px; border-st=
+yle: solid; border-color: rgb(229, 231, 235); }
+
+::after, ::before { --tw-content: ''; }
+
+:host, html { line-height: 1.5; text-size-adjust: 100%; tab-size: 4; font-f=
+amily: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI=
+ Emoji", "Segoe UI Symbol", "Noto Color Emoji"; font-feature-settings: norm=
+al; font-variation-settings: normal; -webkit-tap-highlight-color: transpare=
+nt; }
+
+body { margin: 0px; line-height: inherit; }
+
+hr { height: 0px; color: inherit; border-top-width: 1px; }
+
+abbr:where([title]) { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { color: inherit; text-decoration: inherit; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Mo=
+naco, Consolas, "Liberation Mono", "Courier New", monospace; font-feature-s=
+ettings: normal; font-variation-settings: normal; font-size: 1em; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { text-indent: 0px; border-color: inherit; border-collapse: collapse;=
+ }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-feat=
+ure-settings: inherit; font-variation-settings: inherit; font-size: 100%; f=
+ont-weight: inherit; line-height: inherit; letter-spacing: inherit; color: =
+inherit; margin: 0px; padding: 0px; }
+
+button, select { text-transform: none; }
+
+button, input:where([type=3D"button"]), input:where([type=3D"reset"]), inpu=
+t:where([type=3D"submit"]) { appearance: button; background-color: transpar=
+ent; background-image: none; }
+
+progress { vertical-align: baseline; }
+
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+summary { display: list-item; }
+
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0p=
+x; }
+
+fieldset { margin: 0px; padding: 0px; }
+
+legend { padding: 0px; }
+
+menu, ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+dialog { padding: 0px; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { opacity: 1; color: rgb(156, 163=
+, 175); }
+
+[role=3D"button"], button { cursor: pointer; }
+
+:disabled { cursor: default; }
+
+audio, canvas, embed, iframe, img, object, svg, video { display: block; ver=
+tical-align: middle; }
+
+img, video { max-width: 100%; height: auto; }
+
+[hidden]:where(:not([hidden=3D"until-found"])) { display: none; }
+
+.container { width: 100%; }
+
+@media (min-width: 640px) {
+  .container { max-width: 640px; }
+}
+
+@media (min-width: 768px) {
+  .container { max-width: 768px; }
+}
+
+@media (min-width: 1024px) {
+  .container { max-width: 1024px; }
+}
+
+@media (min-width: 1280px) {
+  .container { max-width: 1280px; }
+}
+
+@media (min-width: 1536px) {
+  .container { max-width: 1536px; }
+}
+
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+.mb-2 { margin-bottom: 0.5rem; }
+
+.mb-8 { margin-bottom: 2rem; }
+
+.mt-12 { margin-top: 3rem; }
+
+.mb-4 { margin-bottom: 1rem; }
+
+.mt-2 { margin-top: 0.5rem; }
+
+.block { display: block; }
+
+.inline-block { display: inline-block; }
+
+.flex { display: flex; }
+
+.hidden { display: none; }
+
+.list-inside { list-style-position: inside; }
+
+.list-disc { list-style-type: disc; }
+
+.flex-wrap { flex-wrap: wrap; }
+
+.justify-center { justify-content: center; }
+
+.gap-2 { gap: 0.5rem; }
+
+.gap-4 { gap: 1rem; }
+
+.space-y-1 > :not([hidden]) ~ :not([hidden]) { --tw-space-y-reverse: 0; mar=
+gin-top: calc(0.25rem * calc(1 - var(--tw-space-y-reverse))); margin-bottom=
+: calc(0.25rem * var(--tw-space-y-reverse)); }
+
+.space-y-2 > :not([hidden]) ~ :not([hidden]) { --tw-space-y-reverse: 0; mar=
+gin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse))); margin-bottom:=
+ calc(0.5rem * var(--tw-space-y-reverse)); }
+
+.space-y-8 > :not([hidden]) ~ :not([hidden]) { --tw-space-y-reverse: 0; mar=
+gin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse))); margin-bottom: c=
+alc(2rem * var(--tw-space-y-reverse)); }
+
+.rounded-lg { border-radius: 0.5rem; }
+
+.rounded-t-lg { border-top-left-radius: 0.5rem; border-top-right-radius: 0.=
+5rem; }
+
+.bg-green-500 { --tw-bg-opacity: 1; background-color: rgb(34 197 94 / var(-=
+-tw-bg-opacity, 1)); }
+
+.bg-red-500 { --tw-bg-opacity: 1; background-color: rgb(239 68 68 / var(--t=
+w-bg-opacity, 1)); }
+
+.bg-stone-50 { --tw-bg-opacity: 1; background-color: rgb(250 250 249 / var(=
+--tw-bg-opacity, 1)); }
+
+.bg-stone-500 { --tw-bg-opacity: 1; background-color: rgb(120 113 108 / var=
+(--tw-bg-opacity, 1)); }
+
+.bg-yellow-500 { --tw-bg-opacity: 1; background-color: rgb(234 179 8 / var(=
+--tw-bg-opacity, 1)); }
+
+.p-4 { padding: 1rem; }
+
+.p-6 { padding: 1.5rem; }
+
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+
+.px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+
+.py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+
+.text-center { text-align: center; }
+
+.text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+
+.text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+
+.text-6xl { font-size: 3.75rem; line-height: 1; }
+
+.text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+
+.font-bold { font-weight: 700; }
+
+.font-semibold { font-weight: 600; }
+
+.text-stone-500 { --tw-text-opacity: 1; color: rgb(120 113 108 / var(--tw-t=
+ext-opacity, 1)); }
+
+.text-stone-600 { --tw-text-opacity: 1; color: rgb(87 83 78 / var(--tw-text=
+-opacity, 1)); }
+
+.text-stone-700 { --tw-text-opacity: 1; color: rgb(68 64 60 / var(--tw-text=
+-opacity, 1)); }
+
+.text-stone-800 { --tw-text-opacity: 1; color: rgb(41 37 36 / var(--tw-text=
+-opacity, 1)); }
+
+.text-white { --tw-text-opacity: 1; color: rgb(255 255 255 / var(--tw-text-=
+opacity, 1)); }
+
+.transition { transition-property: color, background-color, border-color, t=
+ext-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,=
+ backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter; t=
+ransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duratio=
+n: 150ms; }
+
+.transition-colors { transition-property: color, background-color, border-c=
+olor, text-decoration-color, fill, stroke, -webkit-text-decoration-color; t=
+ransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duratio=
+n: 150ms; }
+
+.duration-300 { transition-duration: 300ms; }
+
+.hover\:bg-green-600:hover { --tw-bg-opacity: 1; background-color: rgb(22 1=
+63 74 / var(--tw-bg-opacity, 1)); }
+
+.hover\:bg-red-600:hover { --tw-bg-opacity: 1; background-color: rgb(220 38=
+ 38 / var(--tw-bg-opacity, 1)); }
+
+.hover\:bg-stone-100:hover { --tw-bg-opacity: 1; background-color: rgb(245 =
+245 244 / var(--tw-bg-opacity, 1)); }
+
+.hover\:bg-stone-600:hover { --tw-bg-opacity: 1; background-color: rgb(87 8=
+3 78 / var(--tw-bg-opacity, 1)); }
+
+.hover\:bg-yellow-600:hover { --tw-bg-opacity: 1; background-color: rgb(202=
+ 138 4 / var(--tw-bg-opacity, 1)); }
+
+@media (min-width: 640px) {
+  .sm\:p-6 { padding: 1.5rem; }
+  .sm\:text-base { font-size: 1rem; line-height: 1.5rem; }
+}
+
+@media (min-width: 768px) {
+  .md\:p-8 { padding: 2rem; }
+  .md\:text-5xl { font-size: 3rem; line-height: 1; }
+  .md\:text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+}
+
+@media (min-width: 1024px) {
+  .lg\:p-8 { padding: 2rem; }
+}
+------MultipartBoundary--M831JAbSmuCVyXFa2RywDJKPritiimbQcP9YqqFKXM----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1f8c0158-0378-4aed-acf7-87931f473a28@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Cairo, sans-serif; background-color: rgb(245, 245, 244)=
+; }
+
+.tab-active { background-color: rgb(120, 113, 108); color: white; border-bo=
+ttom-width: 4px; border-color: rgb(168, 162, 158); }
+
+.tab-inactive { background-color: rgb(255, 255, 255); color: rgb(87, 83, 78=
+); }
+
+.content-card { background-color: white; border-radius: 0.75rem; box-shadow=
+: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px;=
+ transition: 0.3s ease-in-out; }
+
+.technique-card { transition: transform 0.2s ease-in-out, box-shadow 0.2s e=
+ase-in-out; cursor: pointer; }
+
+.technique-card:hover { transform: translateY(-5px); box-shadow: rgba(0, 0,=
+ 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -2px; }
+
+.details-pane { max-height: 0px; overflow: hidden; transition: max-height 0=
+.5s ease-out, padding 0.5s ease-out; padding-top: 0px; padding-bottom: 0px;=
+ }
+
+.details-pane.open { max-height: 1000px; padding-top: 1rem; padding-bottom:=
+ 1rem; }
+
+.chart-container { position: relative; width: 100%; max-width: 700px; margi=
+n-left: auto; margin-right: auto; height: 300px; max-height: 400px; }
+
+@media (min-width: 768px) {
+  .chart-container { height: 350px; }
+}
+------MultipartBoundary--M831JAbSmuCVyXFa2RywDJKPritiimbQcP9YqqFKXM------
